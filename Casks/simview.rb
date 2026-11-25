@@ -1,6 +1,6 @@
 cask "simview" do
-  version "0.1.0"
-  sha256 "91e9abf39522016f4f8f99389c7e3859f73b0560dd0d98a07a617fd6b3537246"
+  version "0.2.0"
+  sha256 "67773ab8e2aa24960101dc4664859456a274229e1dd99c8737f9be914b58ef2f"
 
   url "https://github.com/jowhg/simview/releases/download/v#{version}/SimView-#{version}.zip"
   name "SimView"
